@@ -48,16 +48,17 @@ SolidWorks model of a flange-mounted external gear pump: mounting flange, gear h
 ## Animations
 
 
+![Pump animation](media/pump-animation.gif)
 
 
-https://github.com/user-attachments/assets/3c4f2b18-9e8b-49a2-8697-fc893dbf22be
+![Exploded view animation](media/pump-exploded.gif)
 
 
 
 
 
 
-https://github.com/user-attachments/assets/3abd02ae-18c2-4cbf-ac81-f87ba98b3335
+
 
 
 
